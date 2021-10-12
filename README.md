@@ -1,1 +1,1 @@
-# PraktikumYandex-2021
+# Учебные проекты на YandexPraktikum. 
